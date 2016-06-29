@@ -1,25 +1,53 @@
-<TS language="bg_BG" version="2.1">
+<TS language="en_US" version="2.1">
 <context>
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Клик с десен бутон на мишката за промяна на адрес или етикет</translation>
+        <translation>Click derecho para editar direcciones o etiqueta</translation>
     </message>
     <message>
         <source>Create a new address</source>
-        <translation>Създай нов адрес</translation>
+        <translation>Crear una nueva dirección</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>Нов</translation>
+        <translation>&amp;Nuevo</translation>
+    </message>
+    <message>
+        <source>Copy the currently selected address to the system clipboard</source>
+        <translation>Copia la direccion seleccionada al portapapeles del sistema</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>Копирай</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>C&amp;lose</source>
-        <translation>Затвори</translation>
+        <translation>Cerrar</translation>
+    </message>
+    <message>
+        <source>&amp;Copy Address</source>
+        <translation>Copiar dirección</translation>
+    </message>
+    <message>
+        <source>Delete the currently selected address from the list</source>
+        <translation>Eliminar la dirección seleccionada de la lista</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>Exportar los datos en la pestaña actual en un archivo</translation>
+    </message>
+    <message>
+        <source>&amp;Export</source>
+        <translation>Exportar</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>Borrar</translation>
+    </message>
+    <message>
+        <source>Choose the address to send coins to</source>
+        <translation>Escoja la dirección para enviar monedas a</translation>
     </message>
     </context>
 <context>
@@ -57,10 +85,6 @@
     </context>
 <context>
     <name>OptionsDialog</name>
-    <message>
-        <source>Bitcoin Core</source>
-        <translation>Биткойн ядро</translation>
-    </message>
     </context>
 <context>
     <name>OverviewPage</name>
@@ -85,6 +109,10 @@
     </context>
 <context>
     <name>ReceiveRequestDialog</name>
+    <message>
+        <source>Copy &amp;Address</source>
+        <translation>Copiar dirección</translation>
+    </message>
     </context>
 <context>
     <name>RecentRequestsTableModel</name>
@@ -130,6 +158,14 @@
     </context>
 <context>
     <name>WalletView</name>
+    <message>
+        <source>&amp;Export</source>
+        <translation>Exportar</translation>
+    </message>
+    <message>
+        <source>Export the data in the current tab to a file</source>
+        <translation>Exportar los datos en la pestaña actual en un archivo</translation>
+    </message>
     </context>
 <context>
     <name>bitcoin-core</name>
